@@ -1,0 +1,64 @@
+body{
+
+background-image: url(bg2.jpg);
+background-repeat: repeat;
+}
+.name {
+  margin: 0px;
+	margin-left: 240px;
+	width: 1000px;
+  font-size: 40px;
+  font-weight: bold;
+}
+.profile{
+margin-left: 400px;
+}
+
+.edu{
+margin-left: 210px;
+  font-size: 20px;
+  font-weight:bold;
+}
+
+
+.want{
+margin-left: 210px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.list{
+margin-left: 210px;
+  font-size: 20px;
+}
+.tlf{
+margin-left: 210px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.number{
+	margin-left: 230px;
+	font-size: 20px;
+}
+.link{
+margin-left: 210px;
+  font-size: 25px;
+  font-weight: bold;
+}
+.feed{
+margin-left: 210px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.list2{
+  list-style-type: none;
+margin-left: 210px;
+  font-size: 20px;
+}
+.wrapper{
+	width: 1200px;
+	height: 1200px;
+	margin: 0 auto;
+}
